@@ -1,2 +1,2 @@
 # PaCE
-Patterns of Conflict Escalation main repository
+Patterns of Conflict Escalation: main repository
