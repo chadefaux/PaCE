@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Patterns of Conflict Escalation
 
-You can use the [editor on GitHub](https://github.com/chadefaux/pace.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chadefaux/pace.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Are there recurring patterns in the escalation and emergence of wars? The idea that history may repeat itself
+is old. But recent advances overcoming methodological and data barriers present an opportunity to identify
+these recurrences empirically and to examine whether these patterns can be classified to improve forecasts
+and inform theories of conflict. I propose to combine new methods—using the shape of the sequence of
+events rather than its raw values—and novel data on conflict from finance, diplomatic cables, and
+newspapers, to extract typical pre-war motifs. Just as DNA sequencing has been critical to medical
+diagnoses, PaCE aims to diagnose international politics by uncovering the relevant patterns in the area of
+conflict. Our goals are to:
+(i) Identify patterns in the pre-conflict actions using data on conflict events—from the onset of WWI
+to Hamas’s rocket launches—and in their perceptions using data from financial markets (the
+“crowd’s” perception), news articles (the “experts”), and diplomatic documents (the policy-makers).
+This will allow us to evaluate the patterns of escalation over different timescales—from the decade
+to the minute. The similarity between temporal sequences will be measured using algorithms which
+allow for flexible matching, such as Dynamic Time Warping.
+(ii) Evaluate the utility of these patterns to improve forecasts of conflict with both historical and live
+out-of-sample predictions. Our results, using shape-based classification methods, will be made public
+and evaluated in real time. Moreover, using new measures of complexity to distinguish regular,
+chaotic, and random behavior, I will measure possible fundamental limits to the predictability of
+conflict events.
+(iii) Summarize the core features of dangerous patterns into motifs—recurring patterns—that can help
+build new theories of conflict emergence and escalation. PaCE will build a repository of shapes—a
+grammar of patterns—to be used as the building blocks of new theories.
