@@ -12,6 +12,7 @@ events rather than its raw values—and novel data on conflict from finance, dip
 newspapers, to extract typical pre-war motifs. 
 
 ## Objectives
+
 ### Identify patterns
 Identify patterns in the pre-conflict actions using data on conflict events—from the onset of WWI
 to Hamas’s rocket launches—and in their perceptions using data from financial markets (the
