@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+title: PaCE
 navbar:    
   title: "Thomas Chadefaux"
   type: inverse
